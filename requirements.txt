@@ -1,0 +1,6 @@
+tweepy
+pandas
+geopandas
+matplotlib
+nltk
+folium
